@@ -66,7 +66,7 @@ import com.example.medizinische_informatik.permissions.WriteExternalStoragePermi
 import com.example.medizinische_informatik.ui.theme.Medizinische_InformatikTheme
 import com.google.gson.GsonBuilder
 
-
+//Main activity
 @OptIn(ExperimentalMaterial3Api::class)
 class MainActivity : AppCompatActivity() {
     private lateinit var viewModel: ContactViewModel
