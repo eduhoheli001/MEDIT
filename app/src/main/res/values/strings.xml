@@ -1,0 +1,93 @@
+<resources>
+    <!--Hier könnten die Daten übersetzt werden!!-->
+    <string name="app_name">Medizinische_Informatik</string>
+    <string name="app_name_display">Vital Journey</string>
+
+    <!--Patientdata-->
+    <string name="icd10_diagnosen">ICD-10 Diagnosen</string>
+    <string name="allergien">Allergien</string>
+    <string name="speichern">Speichern</string>
+    <string name="login_bild">Login Bild</string>
+    <string name="arztbezogene_daten">Arztbezogene Daten</string>
+
+    <!-- LOGIN-->
+    <string name="welcome_back">Willkommen zurück</string>
+    <string name="login_to_your_account">Melden Sie sich bei Ihrem Konto an</string>
+    <string name="email_adresse">E-Mail Adresse</string>
+
+    <string name="authentication_failed">Authentifizierung fehlgeschlagen</string>
+    <string name="authentication_not_set">Authentifizierung nicht festgelegt</string>
+    <string name="feature_unavailable">Funktion nicht verfügbar</string>
+    <string name="hardware_unavailable">Hardware nicht verfügbar</string>
+    <string name="authentication_success">Authentifizierung erfolgreich</string>
+    <string name="authentication_PDF_success">Authentifizierung und Generierung der PDF-Signatur ist erfolgreich</string>
+    <string name="biometric_verification_required">Biometrische Verifizierung erforderlich</string>
+    <string name="biometric_verification_description">Bitte bestätigen Sie Ihre Identität mit Ihrem Fingerabdruck.</string>
+    <string name="please_enter_valid_email_password">Bitte geben Sie eine gültige E-Mail-Adresse und ein gültiges Passwort ein!!</string>
+    <string name="login">Anmelden</string>
+    <string name="new_account">Neues Konto einrichten?</string>
+    <string name="password_weak">Passwort schwach!</string>
+    <string name="password_strong">Passwort stark!</string>
+
+
+    <!--Textfields-->
+    <string name="label_password">Passwort</string>
+    <string name="label_confirm_password">Passwort bestätigen</string>
+    <string name="warning_password_level">Passwortstärke:</string>
+    <string name="warning_password_level_strong">Stark</string>
+    <string name="warning_password_level_weak">Schwach</string>
+    <string name="error_password_no_match">Passwörter stimmen nicht überein</string>
+    <string name="placeholder_enter_text">Bitte eingeben...</string>
+    <string name="label_text_input">Eingabe</string>
+    <string name="checkbox_label">Checkbox Label</string>
+    <string name="radio_button_label">Option auswählen</string>
+    <string name="radio_button_option_yes">Ja</string>
+    <string name="radio_button_option_no">Nein</string>
+    <string name="radio_button_option_maybe">Vielleicht</string>
+    <string name="text_field_add_placeholder">Textfeld</string>
+    <string name="text_field_add_unknown">Unbekannt</string>
+    <!--FORM-->
+    <string name="register_image_desc">Register image</string>
+    <string name="create_account">Konto erstellen</string>
+    <string name="sign_up_to_get_started">Registrieren, um zu starten</string>
+    <string name="title">Titel</string>
+    <string name="first_name">Vorname</string>
+    <string name="last_name">Nachname</string>
+    <string name="email_address">E-Mail-Adresse</string>
+    <string name="password">Passwort</string>
+    <string name="confirm_password">Passwort bestätigen</string>
+    <string name="birthdate">Geburtsdatum</string>
+    <string name="register">Registrieren</string>
+    <string name="already_have_account">Bereits ein Konto? Anmelden</string>
+    <string name="login_image_desc">Login image</string>
+    <string name="doctor_form_title">Arztbezogene Daten</string>
+    <string name="specialty">Fachgebiet</string>
+    <string name="save">Speichern</string>
+    <string name="registration_failed">Registrierung fehlgeschlagen. </string>
+    <string name="save_failed">Speichern fehlgeschlagen. </string>
+    <string name="password_mismatch_error">Das Passwort stimmt nicht überein!\n</string>
+    <string name="empty_first_name_error">Vorname muss ausgefüllt werden!\n</string>
+    <string name="empty_last_name_error">Nachname muss ausgefüllt werden!\n</string>
+    <string name="empty_email_error">E-Mail muss ausgefüllt werden!\n</string>
+    <string name="empty_password_error">Passwort muss ausgefüllt werden (Mindestens 8 Zeichen mit Kleinbuchstabe, Großbuchstabe, Zahl &amp; Sonderzeichen.)!\n</string>
+    <string name="empty_birthdate_error">Geburtsdatum muss ausgefüllt werden!\n</string>
+    <string name="empty_specialty_error">Fachgebiet muss ausgefüllt werden!\n</string>
+    <string name="pain_level_0">Überhaupt kein Schmerz</string>
+    <string name="pain_level_1">Sehr geringer Schmerz</string>
+    <string name="pain_level_2">Geringer Schmerz</string>
+    <string name="pain_level_3">Mäßiger Schmerz</string>
+    <string name="pain_level_4">Erträglicher Schmerz</string>
+    <string name="pain_level_5">Etwas stärkerer Schmerz</string>
+    <string name="pain_level_6">Starker Schmerz</string>
+    <string name="pain_level_7">Sehr starker Schmerz</string>
+    <string name="pain_level_8">Extremer Schmerz</string>
+    <string name="pain_level_9">Fast maximaler Schmerz</string>
+    <string name="pain_level_10">Maximaler Schmerz</string>
+    <string name="pain_level_unknown">Unbekannter Schmerzlevel</string>
+    <string name="wellbeing_1">Sehr gut</string>
+    <string name="wellbeing_2">Gut</string>
+    <string name="wellbeing_3">Neutral</string>
+    <string name="wellbeing_4">Schlecht</string>
+    <string name="wellbeing_5">Sehr schlecht</string>
+    <string name="wellbeing_unknown">Unbekannt</string>
+</resources>
